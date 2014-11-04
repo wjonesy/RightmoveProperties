@@ -1,0 +1,5 @@
+C:\inetpub\wwwroot\DNN733-141016\bin\RightmoveProperties.dll
+C:\inetpub\wwwroot\DNN733-141016\bin\RightmoveProperties.pdb
+C:\inetpub\wwwroot\DNN733-141016\DesktopModules\RightmoveProperties\obj\Debug\RightmoveProperties.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\DNN733-141016\DesktopModules\RightmoveProperties\obj\Debug\RightmoveProperties.dll
+C:\inetpub\wwwroot\DNN733-141016\DesktopModules\RightmoveProperties\obj\Debug\RightmoveProperties.pdb
