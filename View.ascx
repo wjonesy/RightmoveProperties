@@ -6,5 +6,4 @@
 
 <asp:Label ID="lblPropertyOutput" runat="server" Text="Label"></asp:Label>
 
-
-<asp:DataGrid ID="DataGrid1" runat="server"></asp:DataGrid>
+<asp:GridView ID="PropertyGrid" runat="server" AutoGenerateColumns="true"></asp:GridView>

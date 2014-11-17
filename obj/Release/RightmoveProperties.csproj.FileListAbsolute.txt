@@ -3,3 +3,8 @@ C:\inetpub\wwwroot\DNN733-141016\bin\RightmoveProperties.pdb
 C:\inetpub\wwwroot\DNN733-141016\DesktopModules\RightmoveProperties\obj\Release\RightmoveProperties.dll
 C:\inetpub\wwwroot\DNN733-141016\DesktopModules\RightmoveProperties\obj\Release\RightmoveProperties.pdb
 C:\inetpub\wwwroot\DNN733-141016\DesktopModules\RightmoveProperties\obj\Release\RightmoveProperties.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\DNN732-140928\bin\RightmoveProperties.dll
+C:\inetpub\wwwroot\DNN732-140928\bin\RightmoveProperties.pdb
+C:\inetpub\wwwroot\DNN732-140928\DesktopModules\RightmoveProperties\obj\Release\RightmoveProperties.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\DNN732-140928\DesktopModules\RightmoveProperties\obj\Release\RightmoveProperties.dll
+C:\inetpub\wwwroot\DNN732-140928\DesktopModules\RightmoveProperties\obj\Release\RightmoveProperties.pdb

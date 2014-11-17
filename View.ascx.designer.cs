@@ -31,12 +31,12 @@ namespace Christoc.Modules.RightmoveProperties {
         protected global::System.Web.UI.WebControls.Label lblPropertyOutput;
         
         /// <summary>
-        /// DataGrid1 control.
+        /// PropertyGrid control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DataGrid DataGrid1;
+        protected global::System.Web.UI.WebControls.GridView PropertyGrid;
     }
 }
